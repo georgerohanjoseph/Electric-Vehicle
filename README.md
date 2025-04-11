@@ -36,3 +36,7 @@ Some of the key insights derived from the dashboard include:
 - Growth trends in EV adoption over the years
 - Relationship between vehicle type and battery range
 - Regional preferences for different fuel types (hybrid, electric, plug-in)
+
+  ## Data Story
+
+The data stories reveal several key insights across sales trends, product categories, regions, customer segments, and profitability. Monthly sales have shown steady growth, peaking in December, likely due to holiday-driven demand. Among product categories, Electronics dominate sales, while Books and Toys lag behind. Regionally, the West leads in sales, with the East underperforming, possibly due to limited market reach. Loyal customers contribute the highest revenue, highlighting the value of customer retention, while churned customers show minimal activity, indicating a need for re-engagement strategies. A small set of products drive the majority of revenue, suggesting a classic 80/20 sales distribution, while many products underperform and may require reevaluation. Lastly, although some products with high sales have low profit margins, others—especially premium items—deliver strong profitability, pointing to an opportunity for pricing and cost optimization to maximize overall returns.

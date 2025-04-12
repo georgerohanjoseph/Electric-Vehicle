@@ -4,6 +4,10 @@
 
 This project is a comprehensive Tableau dashboard designed to analyze electric vehicle (EV) data. The dashboard presents insights into various aspects of EV usage, sales, and distribution to support data-driven decisions and highlight trends in the EV market.
 
+# Tableau Public
+
+Link : (https://public.tableau.com/app/profile/rohan.george2899/viz/ELECTRICVEHICLEDATAANALYSIS_17444390209040/Story1)
+
 ## 🔍 Key Features
 
 - Interactive visualizations and filters
